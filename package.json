@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/naguibihab/node-playaround#readme",
   "dependencies": {
-    "mongodb": "^2.2.33"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }

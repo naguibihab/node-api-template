@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: nodeserver-env
+global:
+  profile: nickprivate
